@@ -1,0 +1,25 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    text-align: center;
+}
+
+.container {
+    padding: 30px;
+}
+
+img {
+    height: 200px;
+    max-width: 100%;
+    margin: auto;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    padding: 20px 20px;
+    margin: 30px;
+    font-size: 30px;
+}
